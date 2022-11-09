@@ -19,10 +19,10 @@
 <body>
         
 
-    <div id="preloader">
+    <!--div id="preloader">
         <div id="preloader_status">&nbsp;</div>
 
-    </div>
+    </div-->
     <section id="home">
         <video id="home-bg-video" poster="image/home-poster/poster.jpg" autoplay muted loop>
             <source src="videos/home video.mp4" type="video/mp4">
